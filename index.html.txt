@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ご主人のホームページ</title>
+</head>
+<body>
+  <h1>こんにちは、ここは咬とご主人の秘密の場所です。</h1>
+  <p>これから作品や活動をここに載せていきます。</p>
+</body>
+</html>
